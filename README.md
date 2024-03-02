@@ -1,9 +1,9 @@
 ### I'm glad to see you here!
 
-Don't hesitate to drop me a note if you something comes across your mind 🦖
+Don't hesitate to drop me a note if you something comes across your mind 🦖  
 My email: [michael.leo.dk@gmail.com](mailto:michael.leo.dk@gmail.com)
 
-On my way to greatness!
+Fun Fact: if you grow 1% better each day, in a year you are going to be 37.78 times better.
 <!--
 **MichaelLeo-code/MichaelLeo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
